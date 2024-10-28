@@ -25,13 +25,29 @@ SUPPORTED SOLAR HYBRID INVERTERS:
 - Growatt
 - More to come...
 
-## Installation
+## Repository Installation
 
-Follow these steps to install the add-on:
+Before installing the add-on, you need to add our repository to your Home Assistant instance:
 
-1. Navigate to the Home Assistant Add-on Store.
-2. Find the "CARBONOZ SolarAutopilot" add-on in the list and click on it.
-3. Click on "Install".
+1. Navigate to your Home Assistant instance
+2. Go to Settings -> Add-ons
+3. Click the three dots menu (⋮) in the top right corner
+4. Select "Repositories"
+5. Click the "Add" button (+ icon)
+6. Copy and paste the following URL:
+   ```
+  https://github.com/eelitedesire/carbonoz-addons
+   ```
+7. Click "Add" to save ,check for updates and restart Home Assistant
+8. The repository will now be added to your system
+
+## Add-on Installation
+
+After adding the repository, follow these steps to install the add-on:
+
+1. Navigate to the Home Assistant Add-on Store
+2. Find the "CARBONOZ SolarAutopilot" add-on in the list and click on it
+3. Click on "Install"
 
 ## Configuration
 
