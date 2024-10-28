@@ -34,9 +34,9 @@ Before installing the add-on, you need to add our repository to your Home Assist
 3. Click the three dots menu (⋮) in the top right corner
 4. Select "Repositories"
 5. Click the "Add" button (+ icon)
-6. Copy and paste the following URL:
+6. Copy and paste the following URL:  https://github.com/eelitedesire/carbonoz-addons
    ```
-  https://github.com/eelitedesire/carbonoz-addons
+
    ```
 7. Click "Add" to save ,check for updates and restart Home Assistant
 8. The repository will now be added to your system
