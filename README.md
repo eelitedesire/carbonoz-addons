@@ -58,8 +58,8 @@ Configure the add-on using the following YAML structure:
 ```yaml
 mqtt_host: 192.168.160.55    # Your MQTT broker IP address
 mqtt_port: 1883              # MQTT broker port
-mqtt_username: ""            # MQTT username (if required)
-mqtt_password: ""            # MQTT password (if required)
+mqtt_username: ""            # MQTT username (required)
+mqtt_password: ""            # MQTT password (required)
 battery_number:              # Number of batteries in your system
 inverter_number:            # Number of inverters in your system
 mqtt_topic_prefix: "solar_assistant_DEYE"  # MQTT topic prefix
